@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://pouyamsmartcity.github.io/sitemap.xml
+Sitemap: https://pouyamsmartcity.github.io/rtlint/sitemap.xml
+Sitemap: https://pouyamsmartcity.github.io/turbodrop/sitemap.xml
